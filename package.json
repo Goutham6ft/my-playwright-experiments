@@ -1,0 +1,23 @@
+{
+  "name": "my-playwright-experiments",
+  "version": "1.0.0",
+  "description": "Welcome to my personal playground for exploring [Playwright](https://playwright.dev/) — a powerful end-to-end testing framework for modern web apps!",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Goutham6ft/my-playwright-experiments.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Goutham6ft/my-playwright-experiments/issues"
+  },
+  "homepage": "https://github.com/Goutham6ft/my-playwright-experiments#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.1.0"
+  }
+}
